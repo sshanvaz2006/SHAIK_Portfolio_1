@@ -3,7 +3,7 @@
 Personal portfolio website for Shaik Shanvaz — Data Analyst (Fresher).
 
 ## Live Site
-https://sshanvaz2006.github.io/shaik_shanvaz/
+[https://sshanvaz2006.github.io/shaik_shanvaz/](https://sshanvaz2006.github.io/SHAIK_Portfolio_1/)
 
 ## Built With
 - HTML5, CSS3 (custom properties, animations)
