@@ -1,33 +1,31 @@
 # Shaik Shanvaz — Portfolio Website
 
-Personal portfolio website for Shaik Shanvaz — Data Analyst (Fresher).
+Personal portfolio website for Shaik Shanvaz — Computer Science Graduate, open to IT opportunities (Software Development, Data Analysis, Automation & more).
 
 ## Live Site
-[https://sshanvaz2006.github.io/shaik_shanvaz/](https://sshanvaz2006.github.io/SHAIK_Portfolio_1/)
+https://sshanvaz2006.github.io/SHAIK_Portfolio_1/
 
 ## Built With
-- HTML5, CSS3 (custom properties, animations)
-- Vanilla JavaScript
-- [GSAP](https://gsap.com/) + ScrollTrigger for scroll-based animations
+- HTML5, CSS3 (custom properties, gradients, keyframe animations)
+- Vanilla JavaScript (custom particle-network canvas, typewriter effect)
+- [GSAP](https://gsap.com/) + ScrollTrigger + ScrollToPlugin for scroll-based animations
 - No build step required — pure static site
+
+## Design
+- Color theme: deep charcoal background with emerald teal + gold accents
+- Custom cursor, magnetic buttons, animated skill meters, live particle network hero,
+  scroll-reveal sections, typewriter hero subtitle, 3D tilt project screenshots
 
 ## Structure
 ```
-shaik_shanvaz/
+SHAIK_Portfolio_1/
 ├── index.html              # Main site
 ├── assets/
-│   ├── photo_headshot.jpg  # Profile photo
+│   ├── photo_headshot.jpg
 │   ├── Shaik_Shanvaz_Resume.pdf
 │   └── project1/           # Flood Prediction System screenshots
 └── README.md
 ```
-
-## Running Locally
-No build tools needed. Just open `index.html` in a browser, or serve it locally:
-```
-python3 -m http.server 8000
-```
-Then visit `http://localhost:8000`.
 
 ## Contact
 - Email: sshanvaz1234@gmail.com
